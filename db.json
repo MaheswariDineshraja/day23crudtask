@@ -1,0 +1,18 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "quantity": 2,
+      "cost": 200,
+      "imageUrl": "https://healthjade.com/wp-content/uploads/2017/10/apple-fruit.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mangoes",
+      "quantity": 5,
+      "cost": 500,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPm0fNzGf68cNAfcmcxoLyGucfZsdvyyI8gg&usqp=CAU"
+    }
+  ]
+}
